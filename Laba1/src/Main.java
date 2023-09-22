@@ -2,9 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        HW();
+        /*HW();
         Calc();
         InCalc();
+        Prim();*/
+        Svnth();
     }
 
     public static void HW() {
@@ -113,5 +115,32 @@ public class Main {
                 System.out.println((double) a/inn);
                 break;
         }
+    }
+
+    public static void Prim(){
+        /*5*/
+        System.out.println("25/13+12*(29-45+13/5):");
+        Double ans = 0.0;
+        ans = 13.0/5;
+        ans = 29-45+ans;
+        ans = 12*ans;
+        ans += (25.0/13);
+        System.out.println(ans);
+    }
+
+    public static void Svnth(){
+        /*7*/
+        int n = 87;/*99>n>1*/
+        int ans = 0;
+
+        if (n>10){
+            ans += (int) n/10;
+            ans += n-(ans*10);
+        }
+        else{
+            ans = n;
+        }
+
+        System.out.println(ans);
     }
     }
