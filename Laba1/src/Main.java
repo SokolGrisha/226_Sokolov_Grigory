@@ -80,12 +80,22 @@ public class Main {
                 "1. += \n" +
                 "2. -= \n" +
                 "3. *= \n" +
-                "4. /= \n");
+                "4. /= \n" +
+                "5. +=1 (++)\n" +
+                "6. -=1 (--)");
         Scanner sc = new Scanner(System.in);
         if (sc.hasNextInt()) {
             ch = sc.nextInt();
         }
         switch (ch){
+            case 6:
+                a--;
+                System.out.println(a);
+                break;
+            case 5:
+                a++;
+                System.out.println(a);
+                break;
             case 1:
                 System.out.println("a+=");
                 if (sc.hasNextInt()) {
