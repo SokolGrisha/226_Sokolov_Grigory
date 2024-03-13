@@ -2,14 +2,13 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        /*HW();
+        Task1();
         Calc();
         InCalc();
-        Prim();*/
+        Prim();
         Svnth();
     }
-
-    public static void HW() {
+    public static void Task1() {
         /*1*/
         System.out.println("Hello world!");
         /*1.1*/
