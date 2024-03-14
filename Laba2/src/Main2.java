@@ -35,7 +35,7 @@ public class Main2 {
         if (sc.hasNextDouble()) {
             dol = sc.nextDouble();
         }
-        System.out.println(String.format("%.3f",(dol/funt))+" british pount");
+        System.out.println(String.format("%.3f",(dol/funt))+" british pound");
         System.out.println(String.format("%.3f",(dol/mark))+" german marks");
         System.out.println(String.format("%.3f",(dol/yen))+" yens");
 
