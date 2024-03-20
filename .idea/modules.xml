@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/226_Grigory_Sokolov.iml" filepath="$PROJECT_DIR$/.idea/226_Grigory_Sokolov.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba1/Laba1.iml" filepath="$PROJECT_DIR$/Laba1/Laba1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba2/Laba2.iml" filepath="$PROJECT_DIR$/Laba2/Laba2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba5/Laba5.iml" filepath="$PROJECT_DIR$/Laba5/Laba5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba6/Laba6.iml" filepath="$PROJECT_DIR$/Laba6/Laba6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba7/Laba7.iml" filepath="$PROJECT_DIR$/Laba7/Laba7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba8/Laba8.iml" filepath="$PROJECT_DIR$/Laba8/Laba8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Laba9/Laba9.iml" filepath="$PROJECT_DIR$/Laba9/Laba9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba1/Laba1.iml" filepath="$PROJECT_DIR$/1half/Laba1/Laba1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba2/Laba2.iml" filepath="$PROJECT_DIR$/1half/Laba2/Laba2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba5/Laba5.iml" filepath="$PROJECT_DIR$/1half/Laba5/Laba5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba6/Laba6.iml" filepath="$PROJECT_DIR$/1half/Laba6/Laba6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba7/Laba7.iml" filepath="$PROJECT_DIR$/1half/Laba7/Laba7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba8/Laba8.iml" filepath="$PROJECT_DIR$/1half/Laba8/Laba8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1half/Laba9/Laba9.iml" filepath="$PROJECT_DIR$/1half/Laba9/Laba9.iml" />
     </modules>
   </component>
 </project>

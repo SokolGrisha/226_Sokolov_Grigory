@@ -1,5 +1,4 @@
 import baseFold.Point2D;
-import baseFold.Figure;
 
 import java.util.Scanner;
 
