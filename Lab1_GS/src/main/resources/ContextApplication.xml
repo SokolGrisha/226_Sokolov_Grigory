@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="FigureB"
+          class="com.example.Lab1_GS.Figure">
+    </bean>
+    <bean id="KeyFigureB"
+          class="com.example.Lab1_GS.KeyFigure">
+    </bean>
+    <bean id="RandomBB"
+          class="com.example.Lab1_GS.RandomBox">
+    </bean>
+</beans>
