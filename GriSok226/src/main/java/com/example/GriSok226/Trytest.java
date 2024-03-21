@@ -11,6 +11,7 @@ public class Trytest {
             TestCon = new ConnectQ();
         }
     }
+    /**
     class CLMusic{
         //classical music
     }
@@ -18,5 +19,6 @@ public class Trytest {
         //Player of Music
         private CLMusic ClasMusic;
 
-    }
+    }**/
+
 }
