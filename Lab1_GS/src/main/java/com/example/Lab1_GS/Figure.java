@@ -1,4 +1,5 @@
 package com.example.Lab1_GS;
 
-public class Figure {
+public class Figure extends BP implements Product{
+
 }
